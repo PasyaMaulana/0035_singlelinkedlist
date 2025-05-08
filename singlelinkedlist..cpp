@@ -195,5 +195,5 @@ int main()
         }
         break;
         }
-    }
+    } while (ch != '5');
 }
